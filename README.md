@@ -1,2 +1,2 @@
 # web_scraping
-My attempt at web scraping
+Scripts, notebooks, and tutorials related to web scraping
